@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Tuong</h1>
 
 <p align="center">
-  <strong>Intern Back-End Developer</strong><br/>
+  <strong>Back-End Developer</strong><br/>
   Eager to learn, build, and grow through real-world coding experience.
 </p>
 
