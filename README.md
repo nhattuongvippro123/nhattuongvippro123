@@ -54,7 +54,7 @@
 
 <ul>
   <li>🥇 First Prize – English Talent Competition (2018)</li>
-  <li><a target="blank" href="https://www.udn.vn/tin-tuc/chi-tiet/chung-ket-tim-kiem-tai-nang-tieng-anh-sinh-vien-cong-nghe-thong-tin-etc-sict-2018-hao-hung-tai-nang-va-ban-linh-theo-chuyen-dong-40">Link</a></li>
+  <li><a target="_blank" href="https://www.udn.vn/tin-tuc/chi-tiet/chung-ket-tim-kiem-tai-nang-tieng-anh-sinh-vien-cong-nghe-thong-tin-etc-sict-2018-hao-hung-tai-nang-va-ban-linh-theo-chuyen-dong-40">Link</a></li>
 </ul>
 
 <hr/>
