@@ -20,7 +20,7 @@
 <h2>🛠 Skills</h2>
 
 <ul>
-  <li><strong>Programming Languages:</strong> Python, JavaScript</li>
+  <li><strong>Programming Languages:</strong> C#, Python, JavaScript</li>
   <li><strong>Databases:</strong> MySQL, SQL Server</li>
   <li><strong>Version Control:</strong> Git, GitHub</li>
   <li><strong>Basic Skills:</strong>
